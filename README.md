@@ -1,1 +1,1 @@
-# img_task_3
+Detect object in images
